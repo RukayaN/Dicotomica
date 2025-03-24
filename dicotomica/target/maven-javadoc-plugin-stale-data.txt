@@ -1,0 +1,58 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1.jar:/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1.jar:/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1.jar:/Users/roro/.m2/repository/org/graphstream/gs-core/2.0/gs-core-2.0.jar:/Users/roro/.m2/repository/org/graphstream/pherd/1.0/pherd-1.0.jar:/Users/roro/.m2/repository/org/graphstream/mbox2/1.0/mbox2-1.0.jar:/Users/roro/.m2/repository/org/graphstream/gs-ui-swing/2.0/gs-ui-swing-2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/roro/Documents/Dicotomica/dicotomica/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'dicotomica 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'dicotomica 1.0-SNAPSHOT API'
+dicotomica.proyecto2
+/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1.jar = 1639875157000
+/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1.jar = 1639874618000
+/Users/roro/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1.jar = 1639872781000
+/Users/roro/.m2/repository/org/graphstream/gs-core/2.0/gs-core-2.0.jar = 1599820253000
+/Users/roro/.m2/repository/org/graphstream/pherd/1.0/pherd-1.0.jar = 1305622661000
+/Users/roro/.m2/repository/org/graphstream/mbox2/1.0/mbox2-1.0.jar = 1305622644000
+/Users/roro/.m2/repository/org/graphstream/gs-ui-swing/2.0/gs-ui-swing-2.0.jar = 1600156546000
+/Users/roro/Documents/Dicotomica/dicotomica/src/main/java/.DS_Store = 1742654308255
+/Users/roro/Documents/Dicotomica/dicotomica/src/main/java = 1742654308254
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/tag-search-index.js = 1742776488701
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/overview-tree.html = 1742776488694
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/module-search-index.js = 1742776488700
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/index.html = 1742776488709
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/package-search-index.js = 1742776488700
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/link.svg = 1742776488713
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/serialized-form.html = 1742776488678
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/index-all.html = 1742776488707
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/allpackages-index.html = 1742776488700
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/member-search-index.js = 1742776488701
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/copy.svg = 1742776488712
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/script.js = 1742776488712
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/stylesheet.css = 1742776488712
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/search-page.js = 1742776488714
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/help-doc.html = 1742776488710
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/element-list = 1742776488669
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/search.html = 1742776488708
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/allclasses-index.html = 1742776488699
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/type-search-index.js = 1742776488701
+/Users/roro/Documents/Dicotomica/dicotomica/target/reports/apidocs/search.js = 1742776488713
